@@ -1,8 +1,8 @@
 # bowling-game
 
-![ゲーム画面1](images/ボーリング.PNG)
-![ゲーム画面2](images/ボーリング2.PNG)
-![スコア](images/ボーリング3.PNG)
+![ゲーム画面1](./docs/images/ボーリング.PNG)
+![ゲーム画面2](./docs/images/ボーリング2.PNG)
+![スコア](./docs/images/ボーリング3.PNG)
 <a href="./bowling-game/" target="_blank">ゲームで遊ぶ
 </a>
 
